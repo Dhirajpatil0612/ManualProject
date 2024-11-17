@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>About Page</title>
+<title>Service Page</title>
 </head>
 <body>
-<h2>This is About Page</h2>
-<a href="service.jsp">Go to Service Page</a>
+<h2>This is Service Page</h2>
 </body>
 </html>
